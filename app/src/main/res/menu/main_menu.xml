@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_reg"
+            android:icon="@drawable/reg_icon"
+            android:title="Sign Up" />
+        <item
+            android:id="@+id/nav_signIn"
+            android:icon="@drawable/signin_icon"
+            android:title="Sign In"/>
+        <item
+            android:id="@+id/nav_market"
+            android:icon="@drawable/marketicon"
+            android:title="MarketPlace"/>
+        <item
+            android:id="@+id/nav_sell"
+            android:icon="@drawable/posticon"
+            android:title="Post Item"/>
+    </group>
+
+
+</menu>

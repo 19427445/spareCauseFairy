@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "678344846548",
+    "firebase_url": "https://milo-206a6.firebaseio.com",
+    "project_id": "milo-206a6",
+    "storage_bucket": "milo-206a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678344846548:android:d071ef6e738aa4936a9f41",
+        "android_client_info": {
+          "package_name": "com.example.causefairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678344846548-5id05d22nbn575oj0divcai6k8ls3em3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8czvrFf123ZDWRIWUN2rOLxB8bm82XUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678344846548-5id05d22nbn575oj0divcai6k8ls3em3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678344846548:android:8e95cb5598ff809b6a9f41",
+        "android_client_info": {
+          "package_name": "com.example.ovaltine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678344846548-lahfarmjiu4uqidglgnk123q4tfqqsb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ovaltine",
+            "certificate_hash": "a5945256bec3ecf5acc433a6b2ffb12834b244f2"
+          }
+        },
+        {
+          "client_id": "678344846548-5id05d22nbn575oj0divcai6k8ls3em3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8czvrFf123ZDWRIWUN2rOLxB8bm82XUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678344846548-5id05d22nbn575oj0divcai6k8ls3em3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
